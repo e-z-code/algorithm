@@ -8,7 +8,6 @@ The player who cannot draw a segment loses.
 Assuming each player makes the optimal move, determine who will win the game.
 '''
 
-# CLASS 7
 # TIME COMPLEXITY : O(N^2)
 
 import sys
