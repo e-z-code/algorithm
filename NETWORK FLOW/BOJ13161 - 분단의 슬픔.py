@@ -1,3 +1,13 @@
+'''
+BOJ13161 - Sorrow of Division (https://www.acmicpc.net/problem/13161)
+
+There are N people and a table W representing the sadness when two people are on different sides.
+Some people have already chosen their party, while others are not.
+Divide people such that the sum of sadness is the minimum.
+'''
+
+# TIME COMPLEXITY : O(N^4)
+
 import sys
 from collections import deque
 inf = float('inf')
