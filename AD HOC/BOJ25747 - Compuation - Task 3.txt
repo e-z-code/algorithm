@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------
+BOJ25747 - Computation - Task 3 (https://www.acmicpc.net/problem/25747)
+
+Determine whether the given number is positive, negative, or 0.
+The operations you can use are given.
+--------------------------------------------------------------------------
+
+I
+< 1 1000
+S 2
+< 3 1
+C 4 -1
+O 5
