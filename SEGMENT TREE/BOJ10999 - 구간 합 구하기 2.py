@@ -1,3 +1,15 @@
+'''
+BOJ10999 - Range Sum 2 (https://www.acmicpc.net/problem/10999)
+
+There is an array A of N integers.
+Process the following two queries.
+
+(1) 1 i j k : Add k to A[i], ..., A[j].
+(2) 2 i j : Print A[i] + ... + A[j].
+'''
+
+# TIME COMPLEXITY : O(max(M, K) log max(M, K))
+
 import sys
 
 
